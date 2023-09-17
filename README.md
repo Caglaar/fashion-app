@@ -1,6 +1,11 @@
 # moda_app
 
-A new Flutter project.
+A basic fashion app with Flutter.
+I use InkWell,Stack,Positied,Hero,basis widgets  and many other widgets
+## Appearance and Use of the Application 
+![Using1](https://github.com/Caglaar/FashionApp/assets/100859025/c27f43b2-b7ea-4f0b-aed7-d9e009daab37)
+![Using2](https://github.com/Caglaar/FashionApp/assets/100859025/c9c95aac-3267-4194-a577-aeb76f599227)
+
 
 ## Getting Started
 
